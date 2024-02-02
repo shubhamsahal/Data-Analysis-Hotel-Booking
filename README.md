@@ -3,7 +3,7 @@ This project aims to analyze hotel booking data using Python. The dataset includ
 
 # Requirements
 
-• Python V3.12.1
+• Python ( https://www.python.org/downloads/ )
 
 • Jupyter Notebook
 
